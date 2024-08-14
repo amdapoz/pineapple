@@ -11,11 +11,8 @@ project:
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
-agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+
   year: "2017"
 
 images:
